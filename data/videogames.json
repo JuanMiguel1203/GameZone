@@ -1,0 +1,12 @@
+[
+  {
+    "condition": "nuevo",
+    "distributor": "adidas",
+    "title": "sonic",
+    "price": 4588.0,
+    "platform": "sony",
+    "stock": 1,
+    "genre": "accion",
+    "type": "Physical"
+  }
+]
