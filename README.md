@@ -1,2 +1,2 @@
 Juan Miguel Araujo Meza
-tenga piedad que me tocó fue solo
+(tenga piedad que me tocó fue solo)
